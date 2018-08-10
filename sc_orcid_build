@@ -1,0 +1,2 @@
+cd ~/Development/OrcidApiClient/projects/orcid-api-client/
+mvn clean install

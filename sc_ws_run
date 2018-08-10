@@ -1,0 +1,3 @@
+cd ~/Development/Scholars/projects/scholars-orcid-connection/scorconn-ws
+mvn jetty:run
+
